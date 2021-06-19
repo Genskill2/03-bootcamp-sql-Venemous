@@ -7,7 +7,7 @@ insert into publisher (id,name,country) values (6,"Vintage","UK");
 
 insert into books (id,title,publisher) values (1,"The C Programming Language",1);
 insert into books (id,title,publisher) values (2,"The Go Programming Language",1);
-insert into books (id,title,publisher) values (3,"The UNIX Programming Language",1);
+insert into books (id,title,publisher) values (3,"The UNIX Programming Environment",1);
 insert into books (id,title,publisher) values (4,"Cryptonomicon",2);
 insert into books (id,title,publisher) values (5,"Deep Work",3);
 insert into books (id,title,publisher) values (6,"Atomic Habits",4);
